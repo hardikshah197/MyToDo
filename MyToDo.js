@@ -5,7 +5,7 @@ function listsection(){
     listTask.push(inp);
 }
 function lists() {
-    alert("hello");
+    //alert("hello");
     if(listTask.length === 0)
     {
         document.getElementById("list").innerHTML="None";
